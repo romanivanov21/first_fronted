@@ -1,0 +1,11 @@
+{
+  "name": "p1",
+  "version": "0.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
